@@ -1,0 +1,15 @@
+Package: covidyield
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Jessie",
+           family = "Edwards",
+           role = c("aut", "cre"),
+           email = "jessedwards@unc.edu",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Estimates the proportion of people expected to test positive for COVID-19 under various testing strategies
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
